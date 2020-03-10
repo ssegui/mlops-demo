@@ -1,5 +1,5 @@
 variables:
-  ml-workspace-connection: 'aml-workspace-connection'
+  ml-workspace-connection: 'arm'
   ml-workspace-name: 'csamlfsi-ws'
   ml-workspace-rg: 'csamlfsi-rg'
   ml-compute-name: 'amlcluster'
